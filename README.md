@@ -6,6 +6,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -20,6 +21,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1929-concatenation-of-array) |
@@ -31,6 +33,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -59,4 +62,12 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
