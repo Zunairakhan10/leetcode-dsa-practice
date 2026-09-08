@@ -13,6 +13,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 | [1480-running-sum-of-1d-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -54,5 +55,6 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## String
 |  |
 | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
