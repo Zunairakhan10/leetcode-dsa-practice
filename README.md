@@ -6,6 +6,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Array
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -29,6 +30,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -38,4 +40,12 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
