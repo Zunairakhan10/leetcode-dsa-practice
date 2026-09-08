@@ -7,6 +7,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -22,6 +23,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1929-concatenation-of-array) |
@@ -44,6 +46,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Math
 |  |
 | ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
