@@ -59,6 +59,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1512-number-of-good-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/3871-count-commas-in-range-ii) |
 ## Counting
 |  |
 | ------- |
