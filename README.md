@@ -24,6 +24,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 | [1854-maximum-population-year](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1929-concatenation-of-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -86,4 +88,12 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
