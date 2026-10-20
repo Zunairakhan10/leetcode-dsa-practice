@@ -7,6 +7,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -58,6 +59,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -85,6 +87,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
