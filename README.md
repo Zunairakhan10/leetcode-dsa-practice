@@ -9,6 +9,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0989-add-to-array-form-of-integer) |
@@ -53,6 +54,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -74,6 +76,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -90,6 +93,7 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -103,4 +107,8 @@ Daily LeetCode DSA practice in Java. This repository contains my day-by-day solu
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Zunairakhan10/leetcode-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
